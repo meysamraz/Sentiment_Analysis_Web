@@ -1,0 +1,36 @@
+.container-lg {
+    width: 80%;
+    height: 550px;
+    color: rgb(19,19,19);
+    border-radius: 20px;
+}
+
+.heading {
+    text-align:  center;
+    padding-top: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+#inp {
+    display: flex;
+    height: 80px;
+    width: 600px;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+
+#btn {
+    margin-top: 30px;
+    height: 50px;
+    width: 15px;
+}
+
+.form {
+    text-align: center;
+}
+.output {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
