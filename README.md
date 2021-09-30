@@ -4,9 +4,13 @@ Fast implementation of fast and accurate sentiment analysis using nltk
 ![alt Text](https://github.com/meysam810/Sentiment_Analysis_Web/blob/master/images/preview.gif)
 
 ## Code and Resources Used 
-**Python Version:** 3.8 
-**Packages:** nltk , Flask 
-**Web  Framework :** Bootstarp4 
+
+* Python Version : 3.8 
+* Packages: nltk , Flask 
+* Web  Framework : Bootstarp4 
+
+## Purpose of the Project 
+This package can be useful for those who want to implement accurate sentiment analysis on their website or application. In this project, I tried to show how to work with this package.
 
 **Install Requirements:**  ```pip install -r requirements.txt```
 
