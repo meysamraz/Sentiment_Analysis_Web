@@ -12,6 +12,9 @@ Fast implementation of fast and accurate sentiment analysis using nltk
 ## Purpose of the Project 
 This package can be useful for those who want to implement accurate sentiment analysis on their website or application. In this project, I tried to show how to work with this package.
 
+
+## Install Requirements
+
 **Install Requirements:**  ```pip install -r requirements.txt```
 
 **Install nltk vader :**  ```nltk.download('vader_lexicon')```
