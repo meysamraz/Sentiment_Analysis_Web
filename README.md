@@ -1,7 +1,7 @@
 # Sentiment_Analysis_Web
 Fast implementation of fast and accurate sentiment analysis using nltk
 
-![alt text](https://github.com/meysam810/Sentiment_Analysis_Web/blob/master/images/preview.mp4 "Preview")
+![alt Text](https://github.com/meysam810/Sentiment_Analysis_Web/blob/master/images/preview.gif)
 
 ## Code and Resources Used 
 **Python Version:** 3.8 
