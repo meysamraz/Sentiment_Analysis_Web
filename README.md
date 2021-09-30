@@ -8,6 +8,6 @@ Fast implementation of fast and accurate sentiment analysis using nltk
 **Packages:** nltk , Flask 
 **Web  Framework :** Bootstarp4 
 
-** Install Requirements:**  ```pip install -r requirements.txt```
+**Install Requirements:**  ```pip install -r requirements.txt```
 
-** Install nltk vader :**  ```nltk.download('vader_lexicon')```
+**Install nltk vader :**  ```nltk.download('vader_lexicon')```
