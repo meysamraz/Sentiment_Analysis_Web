@@ -7,7 +7,7 @@ Fast implementation of fast and accurate sentiment analysis using nltk
 
 * Python Version : 3.8 
 * Packages: nltk , Flask 
-* Web  Framework : Bootstarp4 
+* Web  Framework : Bootstrap4 
 
 ## Purpose of the Project 
 This package can be useful for those who want to implement accurate sentiment analysis on their website or application. In this project, I tried to show how to work with this package.
